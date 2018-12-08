@@ -1,0 +1,4 @@
+#Sat Nov 24 00:20:29 IST 2018
+base.0=D\:\\OCR L-reader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

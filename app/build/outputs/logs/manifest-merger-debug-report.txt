@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58c2e8dfe1189f9f4f13e2ff5fdd3c14\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0e032edebd11bccf5f6abc2dd49b78a3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\c81c3d39f13282bd82942f5ab203618a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\11ea68c88b316f5c4ab6936debecdb77\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4e9f05334d5b56dfb786cb11a1169ca8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\bf96dced997f188dca73a945396941ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\9867e45dfd3aaed13b73542e7d63205f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8ba397ec1c4ba9d7694dc410be1b99a3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1f2c3b1d1336f47bc42615ba61e514f1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b676b1992e88664e61fd295831cbdb3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9289c296f664af10d27cc76213e32a46\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d8e1eb6666262e671fdc5858f11fb3c7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ab94931073ede63377d90633fcebbfe3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d3cb659ba470ddad78ec402c739cb2b3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b7bbbf97b9548a0bda7217d599e8872d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\288c70f3e58773ad9a47e01bf0a8c907\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\07ad8b573de706c16b30f116d5b5aa1b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\422ae6442702d596ce51756a8a9d3eb1\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58c2e8dfe1189f9f4f13e2ff5fdd3c14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58c2e8dfe1189f9f4f13e2ff5fdd3c14\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0e032edebd11bccf5f6abc2dd49b78a3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0e032edebd11bccf5f6abc2dd49b78a3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\c81c3d39f13282bd82942f5ab203618a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\c81c3d39f13282bd82942f5ab203618a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\11ea68c88b316f5c4ab6936debecdb77\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\11ea68c88b316f5c4ab6936debecdb77\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4e9f05334d5b56dfb786cb11a1169ca8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4e9f05334d5b56dfb786cb11a1169ca8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\9867e45dfd3aaed13b73542e7d63205f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\9867e45dfd3aaed13b73542e7d63205f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8ba397ec1c4ba9d7694dc410be1b99a3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8ba397ec1c4ba9d7694dc410be1b99a3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1f2c3b1d1336f47bc42615ba61e514f1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1f2c3b1d1336f47bc42615ba61e514f1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b676b1992e88664e61fd295831cbdb3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b676b1992e88664e61fd295831cbdb3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9289c296f664af10d27cc76213e32a46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9289c296f664af10d27cc76213e32a46\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d8e1eb6666262e671fdc5858f11fb3c7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d8e1eb6666262e671fdc5858f11fb3c7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ab94931073ede63377d90633fcebbfe3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ab94931073ede63377d90633fcebbfe3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d3cb659ba470ddad78ec402c739cb2b3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d3cb659ba470ddad78ec402c739cb2b3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b7bbbf97b9548a0bda7217d599e8872d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b7bbbf97b9548a0bda7217d599e8872d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\288c70f3e58773ad9a47e01bf0a8c907\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\288c70f3e58773ad9a47e01bf0a8c907\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\07ad8b573de706c16b30f116d5b5aa1b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\07ad8b573de706c16b30f116d5b5aa1b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\422ae6442702d596ce51756a8a9d3eb1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\422ae6442702d596ce51756a8a9d3eb1\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1f2c3b1d1336f47bc42615ba61e514f1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1f2c3b1d1336f47bc42615ba61e514f1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58c2e8dfe1189f9f4f13e2ff5fdd3c14\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58c2e8dfe1189f9f4f13e2ff5fdd3c14\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0e032edebd11bccf5f6abc2dd49b78a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0e032edebd11bccf5f6abc2dd49b78a3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\c81c3d39f13282bd82942f5ab203618a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\c81c3d39f13282bd82942f5ab203618a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\11ea68c88b316f5c4ab6936debecdb77\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\11ea68c88b316f5c4ab6936debecdb77\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4e9f05334d5b56dfb786cb11a1169ca8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4e9f05334d5b56dfb786cb11a1169ca8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\bf96dced997f188dca73a945396941ae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\bf96dced997f188dca73a945396941ae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\9867e45dfd3aaed13b73542e7d63205f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\9867e45dfd3aaed13b73542e7d63205f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8ba397ec1c4ba9d7694dc410be1b99a3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8ba397ec1c4ba9d7694dc410be1b99a3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1f2c3b1d1336f47bc42615ba61e514f1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\1f2c3b1d1336f47bc42615ba61e514f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b676b1992e88664e61fd295831cbdb3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b676b1992e88664e61fd295831cbdb3\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9289c296f664af10d27cc76213e32a46\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9289c296f664af10d27cc76213e32a46\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d8e1eb6666262e671fdc5858f11fb3c7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d8e1eb6666262e671fdc5858f11fb3c7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ab94931073ede63377d90633fcebbfe3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ab94931073ede63377d90633fcebbfe3\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d3cb659ba470ddad78ec402c739cb2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d3cb659ba470ddad78ec402c739cb2b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b7bbbf97b9548a0bda7217d599e8872d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b7bbbf97b9548a0bda7217d599e8872d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\288c70f3e58773ad9a47e01bf0a8c907\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\288c70f3e58773ad9a47e01bf0a8c907\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\07ad8b573de706c16b30f116d5b5aa1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\07ad8b573de706c16b30f116d5b5aa1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\422ae6442702d596ce51756a8a9d3eb1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\422ae6442702d596ce51756a8a9d3eb1\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+		ADDED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+		INJECTED from D:\OCR L-reader\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58c2e8dfe1189f9f4f13e2ff5fdd3c14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58c2e8dfe1189f9f4f13e2ff5fdd3c14\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0e032edebd11bccf5f6abc2dd49b78a3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\0e032edebd11bccf5f6abc2dd49b78a3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b676b1992e88664e61fd295831cbdb3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8b676b1992e88664e61fd295831cbdb3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9289c296f664af10d27cc76213e32a46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9289c296f664af10d27cc76213e32a46\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d8e1eb6666262e671fdc5858f11fb3c7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\d8e1eb6666262e671fdc5858f11fb3c7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ab94931073ede63377d90633fcebbfe3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ab94931073ede63377d90633fcebbfe3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d3cb659ba470ddad78ec402c739cb2b3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d3cb659ba470ddad78ec402c739cb2b3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b7bbbf97b9548a0bda7217d599e8872d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\b7bbbf97b9548a0bda7217d599e8872d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\288c70f3e58773ad9a47e01bf0a8c907\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\288c70f3e58773ad9a47e01bf0a8c907\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\07ad8b573de706c16b30f116d5b5aa1b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\07ad8b573de706c16b30f116d5b5aa1b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\422ae6442702d596ce51756a8a9d3eb1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\422ae6442702d596ce51756a8a9d3eb1\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\9ebeaa4a29d466ba0663a332e81d06bc\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28f7809733bf47ba2ab90f37b8c37c0a\AndroidManifest.xml:24:13-79
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vedang\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ddc013a79bae8914346b9dd4ba437c8f\AndroidManifest.xml:26:13-58
